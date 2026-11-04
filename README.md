@@ -1,3 +1,5 @@
+[![CI](https://github.com/instituto-cird/ia-dev-didimgfi/actions/workflows/ci.yml/badge.svg)](https://github.com/instituto-cird/ia-dev-didimgfi/actions)
+
 # ia-dev-template
 
 Template oficial del curso **IA Aplicada al Desarrollo de Software**.
@@ -288,3 +290,4 @@ Ambos tracks comparten los mismos requisitos de CI, `AI_USAGE.md`, `DEMO_PLAN.md
 **Nombre:** Diana Magdalena Gonzalez Fernandez
 **Ciudad:** Asuncion
 **Qué me gustaría construir en el programa:** una app con agentes inteligentes
+
