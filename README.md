@@ -1,3 +1,5 @@
+[![CI](https://github.com/instituto-cird/ia-dev-didimgfi/actions/workflows/ci.yml/badge.svg)](https://github.com/instituto-cird/ia-dev-didimgfi/actions)
+
 # ia-dev-template
 
 Template oficial del curso **IA Aplicada al Desarrollo de Software**.
@@ -282,3 +284,10 @@ Ambos tracks comparten los mismos requisitos de CI, `AI_USAGE.md`, `DEMO_PLAN.md
 - [bandit — security linter](https://bandit.readthedocs.io/)
 - [pytest](https://docs.pytest.org/)
 - [ReAct pattern (paper)](https://arxiv.org/abs/2210.03629)
+
+## Autor/a
+
+**Nombre:** Diana Magdalena Gonzalez Fernandez
+**Ciudad:** Asuncion
+**Qué me gustaría construir en el programa:** una app con agentes inteligentes
+
